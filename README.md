@@ -1,5 +1,3 @@
-# 🚀 Projeto React + Vite
-
 ## 📦 Como rodar o projeto
 
 1. Acesse a pasta raiz do projeto no terminal:
