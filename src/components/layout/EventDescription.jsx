@@ -1,4 +1,4 @@
-import { events } from '../../lib/utils';
+import { events } from '@/lib/utils';
 
 const today = new Date();
 const day = today.getDate();
